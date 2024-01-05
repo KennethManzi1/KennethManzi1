@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Kenneth(Ken) Kaijage</h1>
 <h3 align="center">I have experience with data analytics, database design, creating reports, optimizing queries, creating Python Scripts and Data Visualization in Tableau.</h3>
+<h4 align="center">I Graduated from the University of Minnesota Twincities in 2020 majoring in Statistics and Minor in Economics.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennethmanzi1&label=Profile%20views&color=0e75b6&style=flat" alt="kennethmanzi1" /> </p>
 
@@ -10,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kennykaijage.com](https://kennykaijage.com)
 
-- 💬 Ask me about **Databases, Data Analytics, Data Engineering**
+- 💬 Ask me about **Databases, Data Analytics**
 
 - 📫 How to reach me **kennykaijage@gmail.com**
 

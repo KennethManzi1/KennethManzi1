@@ -37,4 +37,3 @@ In my 3 years of experience in the corporate world, I acquired expertise in the 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethmanzi1&show_icons=true&locale=en&layout=compact" alt="kennethmanzi1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennethmanzi1&show_icons=true&locale=en" alt="kennethmanzi1" /></p>
-

@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Kenneth(Ken) Kaijage</h1>
+### Hello World 👋
+<h1 align="center">Hello 👋, I'm Kenneth(Ken) Kaijage</h1>
 <h3 align="center">I have experience with data analytics, database design, creating reports, optimizing queries, creating Python Scripts and Data Visualization in Tableau.</h3>
 <h4 align="center">I Graduated from the University of Minnesota Twin Cities in 2020 majoring in Statistics and Minor in Economics.</h4>
 

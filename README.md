@@ -22,7 +22,7 @@ In my 3 years of experience in the corporate world, I acquired expertise in the 
 
 - 📫 How to reach me **kennykaijage@gmail.com**
 
-- 📄 Know about my experiences [here](https://kennykaijage.com/Aboutme)
+- 📄 Know about my experiences [here](https://kennykaijage.com/AboutMe.html) 
 
 - ⚡ Fun fact **I love to run and I do half marathons to marathons**
 

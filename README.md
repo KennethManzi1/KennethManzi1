@@ -18,7 +18,8 @@ In my 4 years of experience in the corporate world, I acquired expertise in the 
 
 - 👨‍💻 All of my projects are available at [https://kennykaijage.com](https://kennykaijage.com)
 
-- 💬 Ask me about **Databases, Data Analytics, Running, Working out, Traveling, Investing.** I love to talk about all things Data, Investing and being active
+- 💬 Ask me about **Databases, Data Analytics, Running, Working out, Traveling, Investing.**
+-   I love to talk about all things Data, Investing and being active
 
 - 📫 How to reach me **kennykaijage@gmail.com**
 

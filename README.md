@@ -6,19 +6,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennethmanzi1&label=Profile%20views&color=0e75b6&style=flat" alt="kennethmanzi1" /> </p>
 
 In my 4 years of experience in the corporate world, I acquired expertise in the data analytics field through:
-- Querying data using SQL.
-- Query optimization to improve performance.
-- Generating reports and performing ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau.
-- Data analysis using Excel features such as Power Query, Pivot tables, and Power Pivot.
-- Statistical analysis and creating statistical models using Python and R.
-- Leveraging Power Automate for report automation and auditing to foster data governance and data integrity.
+- Querying data using SQL
+- Query optimization to improve performance
+- Generating reports and performing ad-hoc data analysis using SQL
+- Developing dashboards on Tableau
+- Data analysis using Excel features such as Power Query, Pivot tables, and Power Pivot
+- Statistical analysis and creating statistical models using Python and R
+- Leveraging Power Automate for report automation and auditing to foster data governance and data integrity
 
 - 🌱 I’m currently learning **Snowflake database and snowflake SQL**
 
 - 👨‍💻 All of my projects are available at [https://kennykaijage.com](https://kennykaijage.com)
 
-- 💬 Ask me about **Databases, Data Analytics, Running, Working out, Traveling, Investing.** I love to talk about all things Data, Investing and being active.
+- 💬 Ask me about **Databases, Data Analytics, Running, Working out, Traveling, Investing.** I love to talk about all things Data, Investing and being active
 
 - 📫 How to reach me **kennykaijage@gmail.com**
 

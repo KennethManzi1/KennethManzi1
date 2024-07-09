@@ -1,4 +1,4 @@
-<h1 align="center">**Hello 👋, I'm Kenneth(Ken) Kaijage**</h1>
+<h1 align="center">Hello 👋, I'm Kenneth(Ken) Kaijage</h1>
 <h3 align="center">I have experience with data analytics, database design, creating reports, optimizing queries, creating Python Scripts and Data Visualization in Tableau.</h3>
 <h4 align="center">I have a Bachelor's degree in Statistics and Economics from the University of Minnesota, where I developed a passion for understanding data and generating insights. I also have multiple certifications in analytics such as SQL and Python from DataCamp and Kellogg Executive Education. I am analytical, action-oriented and hardworking with a strong ability to use critical thinking and teamwork to solve problems.</h4>
 

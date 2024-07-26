@@ -13,8 +13,9 @@
 - Data analysis using Excel features such as Power Query, Pivot tables, and Power Pivot
 - Statistical analysis and creating statistical models using Python and R
 - Leveraging Power Automate for report automation and auditing to foster data governance and data integrity
+- Utilizing databases such as SQL Server, MySQL, Postgres and Snowflake
 
-- 🌱 I’m currently learning **Snowflake database and snowflake SQL**
+- 🌱 I’m currently learning **Snowflake database and SSIS package development**
 
 - 👨‍💻 All of my projects are available at [https://kennykaijage.com](https://kennykaijage.com)
 

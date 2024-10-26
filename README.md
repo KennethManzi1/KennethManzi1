@@ -15,7 +15,7 @@
 - Leveraging Power Automate for report automation and auditing to foster data governance and data integrity
 - Utilizing relational databases such as SQL Server, MySQL, Postgres and Snowflake
 
-- 🌱 I’m currently learning **Snowflake database, Stored Procedures and SSIS package development**
+- 🌱 I’m currently learning **Snowflake Stored Procedures and SSIS package development**
 
 - 👨‍💻 All of my projects are available at [https://kennykaijage.com](https://kennykaijage.com)
 

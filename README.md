@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **kennykaijage@gmail.com**
 
-- 📄 Know about my experiences [here](https://kennykaijage.com/AboutMe.html) 
+- 📄 Know about my experiences [here](https://kennykaijage.com/AboutMe.html) and my first featured content [here](https://www.linkedin.com/pulse/sql-insights-conversation-ken-kaijage-learnsql-com-bdfwf/?trackingId=%2BqsRppoIQ3umy1AuRS7aHQ%3D%3D)
 
 - ⚡ Fun fact **I love to run and I do half marathons to marathons**
 

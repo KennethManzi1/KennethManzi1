@@ -16,8 +16,9 @@
 - Leveraging Power Automate for report automation and auditing to foster data governance and data integrity
 - Utilizing relational databases such as SQL Server, MySQL, Postgres and Snowflake
 
-- 🌱 I’m currently learning **Snowflake Stored Procedures and SSIS package development**
+- 🌱 I’m currently learning **Snowflake Stored Procedures, Semantic Layers and SSIS package development**
 - 👨‍💻 I'm certified in [Tableau](https://www.credly.com/badges/4b3b55d6-f063-4cf7-81d1-bb746fa6585b), [SQL](https://learnsql.com/files/course-certificate/uFzhaCXLBQCGRNslQQeeDlMtBBDVcMGLiYqBQLkb) and [Azure Data Fundamentals](https://www.credly.com/badges/dd096767-c2bb-4793-8cbb-00251210cdb2/linked_in_profile)
+- 👨‍💻 I am pursuing a Master's Degree In Business Analytics at University of Iowa College School of Business starting in the Fall of 2025
 
 - 👨‍💻 All of my projects are available at [https://kennykaijage.com](https://kennykaijage.com)
 

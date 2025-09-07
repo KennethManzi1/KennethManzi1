@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [here](https://kennykaijage.com/AboutMe.html) and my first featured content [here](https://www.linkedin.com/pulse/sql-insights-conversation-ken-kaijage-learnsql-com-bdfwf/?trackingId=%2BqsRppoIQ3umy1AuRS7aHQ%3D%3D)
 
-- ⚡ Fun fact **I love to run and I do half marathons to marathons(Currently I am sick and taking a break from training to recover)**
+- ⚡ Fun fact **I love to run and I do half marathons to marathons(Currently battling Post Covid health issues from a late April 20025 infection and taking a break from training to recover)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

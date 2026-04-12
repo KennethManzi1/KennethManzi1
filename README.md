@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennethmanzi1&label=Profile%20views&color=0e75b6&style=flat" alt="kennethmanzi1" /> </p>
 
-### In my 5 years of experience in the corporate world, I acquired expertise in the data analytics field through:
+### In my 6 years of experience in the corporate world, I acquired expertise in the data analytics field through:
 - Querying data using SQL
 - Using SQL and Python to build and enhance processes and pipelines
 - Building data infrastructure and data pipelines

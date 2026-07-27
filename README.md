@@ -7,7 +7,7 @@
 ### In my 6 years of experience in the corporate world, I acquired expertise in the data analytics field through:
 - Querying data using SQL
 - Using SQL and Python to build and enhance processes and pipelines
-- Building data infrastructure and data pipelines
+- Developing automated data marts and reporting tables
 - Query optimization to improve performance
 - Generating reports and performing ad-hoc data analysis using SQL, Excel and Python
 - Developing dashboards on Tableau
@@ -16,7 +16,7 @@
 - Leveraging Power Automate for report automation and auditing to foster data governance and data integrity
 - Utilizing relational databases such as SQL Server, MySQL, Postgres and Snowflake
 
-- 🌱 I’m currently learning **Snowflake Stored Procedures, Semantic Layers and SSIS package development**
+- 🌱 I’m currently learning **Semantic Layers and SSIS package development**
 - 👨‍💻 I'm certified in [Tableau](https://www.credly.com/badges/4b3b55d6-f063-4cf7-81d1-bb746fa6585b), [SQL](https://learnsql.com/files/course-certificate/uFzhaCXLBQCGRNslQQeeDlMtBBDVcMGLiYqBQLkb) and [Azure Data Fundamentals](https://www.credly.com/badges/dd096767-c2bb-4793-8cbb-00251210cdb2/linked_in_profile)
 - 👨‍💻 I am pursuing a Master's Degree In Business Analytics at University of Iowa College School of Business starting in the Fall of 2025
 

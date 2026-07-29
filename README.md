@@ -6,7 +6,7 @@
 
 ### In my 6 years of experience in the corporate world, I acquired expertise in the data analytics field through:
 - Querying data using SQL
-- Using SQL and Python to build and enhance processes and pipelines
+- Using SQL to build and enhance processes and pipelines
 - Developing automated data marts and reporting tables
 - Query optimization to improve performance
 - Generating reports and performing ad-hoc data analysis using SQL, Excel and Python

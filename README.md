@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [here](https://kennykaijage.com/AboutMe.html) and my first featured content [here](https://www.linkedin.com/pulse/sql-insights-conversation-ken-kaijage-learnsql-com-bdfwf/?trackingId=%2BqsRppoIQ3umy1AuRS7aHQ%3D%3D)
 
-- ⚡ Fun fact **I love to run and I do half marathons to marathons(Currently battling Post Covid health issues from a late April 2025 infection and taking a break from running to recover). UPDATE: I am 90% recovered from the Post Covid Issues and I have completed the Twin Cities 10 mile and training for a November Half Marathon. Feels good to run again and build my fitness back**
+- ⚡ Fun fact **I love to run and I do half marathons to marathons. Between May 2025 and early 2026, I dealt with a bizarre health crisis from a April 2025 Covid infection during Grandmas marathon training. Fortunately I am better now and recently completed the Twin Cities 10 mile race, training for a November Half Marathon and I am rebuilding my fitness back to run Twin Cities Marathon in 2027.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
